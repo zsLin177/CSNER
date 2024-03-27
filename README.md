@@ -29,10 +29,6 @@ Considering the size of the data, we only uploaded some sample audios instead of
 But we have uploaded the complete annotations for the development set and test set.
 We will provide download links for all the audios and DC train data in future public versions.
 
-
-The corresponding audios and the unlabed training data of DC are currently not available in this repo since the large size of the data. 
-We will provide the download link in the future public version.
-
 ## Inference with LLMs
 ```shell
 ## take DC Test as an example
