@@ -1,0 +1,41 @@
+# log file
+*.log
+*.pred
+logs
+*.res
+
+# data files
+data
+Aishell-NER
+analysis
+CNERTA
+RAMC
+*.json
+*.jsonl
+
+
+# model files
+bert-base-chinese
+chinese-roberta-wwm-ext-large
+new_supar
+syntax_aware_seqtag
+Qwen-Qwen1.5-7B-Chat
+
+# exp files
+exp
+self-training-*
+st*
+
+# script files
+*.slurm
+*.sh
+instruction_main.py
+test.py
+myscripts
+
+# vscode files
+.vscode
+
+# other files
+__pycache__
+
