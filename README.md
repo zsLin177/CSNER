@@ -18,6 +18,13 @@ We believe that our work will advance the field of Spoken NER in real-world sett
 ```shell
 pip install -r requirements.txt
 ```
+## Data
+The annotated data is in the `data_to_upload` folder. The data is in jsonl format.
+The data is divided into three parts: MSRA, DC, and ICI.
+The MSRA data is from the MSRA-NER dataset, which is widely used in Chinese NER tasks.
+DC and ICI are our real-world Chinese Spoken NER datasets.
+The corresponding audios and the unlabed training data of DC are currently not available in this repo since the large size of the data. 
+We will provide the download link in the future public version.
 
 ## Inference with LLMs
 ```shell
