@@ -25,7 +25,6 @@ The folder is divided into four parts: MSRA, DC, ICI and audios.
 The MSRA data is from the MSRA-NER dataset, which is widely used in Chinese NER tasks.
 DC and ICI are our real-world Chinese Spoken NER datasets.
 The audios are the corresponding speech records of DC and ICI.
-~~Considering the size of the data, we only uploaded some sample audios instead of all of them (the same goes for DC's training set). ~~
 But we have uploaded the complete annotations for the development set and test set.
 We have released the audios of the dev and test sets at [here](https://huggingface.co/zsLin/RWCS-NER).
 
